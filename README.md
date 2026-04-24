@@ -218,19 +218,7 @@ The data is saved in a human-readable JSON format, allowing for easy backup or m
 
 ## Project Structure
 
-```text
-src/
-├── app.py                  # Main application logic (StickyNotesApp)
-├── main.py                 # Entry point
-├── models.py               # Data models (Note class)
-├── storage.py              # JSON storage handler (Cross-platform)
-├── style.css               # Textual CSS styling
-└── components/             # UI Components
-    ├── stickyNote.py       # Individual Note widget
-    ├── editModal.py        # Edit/Create popup
-    ├── searchModal.py      # Search functionality
-    └── deleteModal.py      # Confirmation popup
-```
+...will come soon
 
 
 
