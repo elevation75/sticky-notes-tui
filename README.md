@@ -32,8 +32,8 @@
 * **Responsive Layout:** Grid layout automatically adjusts columns based on your terminal width.
 
 ---
-# GIF
-![Demo](assets/tutorial.gif)
+# Demo
+#![Demo](assets/tutorial.gif)
 
 ## Installation
 
