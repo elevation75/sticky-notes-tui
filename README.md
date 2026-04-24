@@ -25,6 +25,10 @@
       <img src="https://github.com/user-attachments/assets/5ecfa4a4-19a4-47ed-8411-b0391f0c3b68" width="420">
     </td>
     <td align="center">
+      <strong>Adding a note</strong><br>
+      <img src="https://github.com/user-attachments/assets/59c697f1-08f8-4fa4-8402-25c1526556df" width="420">
+    </td>
+    <td align="center">
       <strong>Mainpage dark mode</strong><br>
       <img src="https://github.com/user-attachments/assets/0ea6e1cb-9010-4c6c-9d10-38e9aab5f063" width="420">
     </td>
