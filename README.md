@@ -52,7 +52,7 @@
 * **Persistent Storage:** Automatically saves your notes to your OS-specific application data directory (supports Linux, macOS, and Windows).
 * **Dark/Light Mode:** Toggle between themes to suit your environment.
 * **Responsive Layout:** Grid layout automatically adjusts columns based on your terminal width.
-
+* **Emoji support in notes:** All notes can support emoji and markdown style.
 ---
 
 ## Installation
