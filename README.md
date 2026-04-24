@@ -68,8 +68,8 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/dengo07/textual-sticky-notes-tui.git
-    cd textual-sticky-notes-tui
+    git clone https://github.com/elevation75/sticky-notes-tui.git
+    cd sticky-notes-tui
     ```
 
 2.  **Create and Sync the Environment**
