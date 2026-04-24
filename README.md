@@ -7,6 +7,12 @@
 **Sticky Notes TUI** is a modern, keyboard-centric terminal-based application designed to manage your thoughts, tasks, and reminders efficiently. Built with Textual, it offers a seamless graphical experience directly within your console, featuring rich colors, priority management, and persistent storage.
 
 ---
+# Screenshots 
+<img width="955" height="1025" alt="20260424_130521" src="https://github.com/user-attachments/assets/220c5cc2-422b-40f8-b394-7e015d9da049" />
+<img width="953" height="1026" alt="20260424_130447" src="https://github.com/user-attachments/assets/c9aee46b-9109-4a01-a34f-8483702c4dc9" />
+<img width="823" height="652" alt="20260424_130555" src="https://github.com/user-attachments/assets/5ecfa4a4-19a4-47ed-8411-b0391f0c3b68" />
+<img width="956" height="1027" alt="20260424_130406" src="https://github.com/user-attachments/assets/0ea6e1cb-9010-4c6c-9d10-38e9aab5f063" />
+
 
 ## Table of Contents
 
@@ -32,8 +38,6 @@
 * **Responsive Layout:** Grid layout automatically adjusts columns based on your terminal width.
 
 ---
-# Demo
-#![Demo](assets/tutorial.gif)
 
 ## Installation
 
